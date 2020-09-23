@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Native.Access</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="PointerType.xml" />
+  </ItemGroup>
+</Project>
