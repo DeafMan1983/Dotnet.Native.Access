@@ -40,6 +40,6 @@ class SDL_Program
     }
 }
 ```
-## For Pointer / PointerType are from "typedef struct*" like Display* from X11 or SDL_Window* but whatever do you want decide 3 different type of alternative to IntPtr.
+## Pointer / PointerType are from "typedef struct*" like Display* from X11 or SDL_Window* but whatever do you want decide 3 different type of alternative to IntPtr.
 
 Enjoy and happy coding!
