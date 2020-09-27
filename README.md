@@ -44,4 +44,4 @@ class SDL_Program
 
 Enjoy and happy coding!
 
-Donate? No problem you can spend [me](https://www.paypal.com/paypalme/jenseckervogt) ( That is my real name ) I am Jens Eckervogt ( aka DeafMan1983 ) Why I am DeafMan because I am deaf since my birth. Thanks for spending! I hope you understand my reason.
+Donate? No problem you can spend [me](https://paypal.me/pools/c/8sNtytYEWS) Why I am DeafMan because I am deaf since my birth. Thanks for spending! I hope you understand my reason.
